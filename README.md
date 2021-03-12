@@ -1,4 +1,4 @@
-# Projeto básico de Calculara
+# Projeto básico de Calculadora
 
 
 
